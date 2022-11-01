@@ -15,6 +15,7 @@
 		89BF32522910985C008A51CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89BF32502910985C008A51CE /* LaunchScreen.storyboard */; };
 		89BF325A2910987C008A51CE /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF32592910987C008A51CE /* Coordinator.swift */; };
 		89BF325C291098FD008A51CE /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF325B291098FD008A51CE /* Storyboarded.swift */; };
+		89BF325E29109A67008A51CE /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF325D29109A67008A51CE /* MainCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		89BF32532910985C008A51CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89BF32592910987C008A51CE /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		89BF325B291098FD008A51CE /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
+		89BF325D29109A67008A51CE /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				89BF32532910985C008A51CE /* Info.plist */,
 				89BF32592910987C008A51CE /* Coordinator.swift */,
 				89BF325B291098FD008A51CE /* Storyboarded.swift */,
+				89BF325D29109A67008A51CE /* MainCoordinator.swift */,
 			);
 			path = "ios-coordinator";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89BF325A2910987C008A51CE /* Coordinator.swift in Sources */,
+				89BF325E29109A67008A51CE /* MainCoordinator.swift in Sources */,
 				89BF324A2910985B008A51CE /* ViewController.swift in Sources */,
 				89BF325C291098FD008A51CE /* Storyboarded.swift in Sources */,
 				89BF32462910985B008A51CE /* AppDelegate.swift in Sources */,
