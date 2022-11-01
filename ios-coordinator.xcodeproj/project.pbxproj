@@ -16,6 +16,8 @@
 		89BF325A2910987C008A51CE /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF32592910987C008A51CE /* Coordinator.swift */; };
 		89BF325C291098FD008A51CE /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF325B291098FD008A51CE /* Storyboarded.swift */; };
 		89BF325E29109A67008A51CE /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF325D29109A67008A51CE /* MainCoordinator.swift */; };
+		89BF326029109CA4008A51CE /* BuyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF325F29109CA4008A51CE /* BuyViewController.swift */; };
+		89BF326229109CAF008A51CE /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BF326129109CAF008A51CE /* CreateAccountViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		89BF32592910987C008A51CE /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		89BF325B291098FD008A51CE /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
 		89BF325D29109A67008A51CE /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
+		89BF325F29109CA4008A51CE /* BuyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyViewController.swift; sourceTree = "<group>"; };
+		89BF326129109CAF008A51CE /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				89BF32592910987C008A51CE /* Coordinator.swift */,
 				89BF325B291098FD008A51CE /* Storyboarded.swift */,
 				89BF325D29109A67008A51CE /* MainCoordinator.swift */,
+				89BF325F29109CA4008A51CE /* BuyViewController.swift */,
+				89BF326129109CAF008A51CE /* CreateAccountViewController.swift */,
 			);
 			path = "ios-coordinator";
 			sourceTree = "<group>";
@@ -151,7 +157,9 @@
 				89BF325E29109A67008A51CE /* MainCoordinator.swift in Sources */,
 				89BF324A2910985B008A51CE /* ViewController.swift in Sources */,
 				89BF325C291098FD008A51CE /* Storyboarded.swift in Sources */,
+				89BF326229109CAF008A51CE /* CreateAccountViewController.swift in Sources */,
 				89BF32462910985B008A51CE /* AppDelegate.swift in Sources */,
+				89BF326029109CA4008A51CE /* BuyViewController.swift in Sources */,
 				89BF32482910985B008A51CE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
